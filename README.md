@@ -4,7 +4,7 @@
 <h1 align="center">Luznax</h1>
 <div align="center">
   <p align="center">-- Programming for fun -- </p>
-<p>Electronics :electric_plug::battery:<br /></p>
+<p>AI</p>
 Poland :poland:
 </div>
 
