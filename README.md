@@ -15,6 +15,6 @@ Starter: ![](https://img.shields.io/badge/Flutter-042B59?style=for-the-badge&log
 
 
 ![](https://img.shields.io/badge/Mathematics-ffa500?style=for-the-badge)
-![](https://img.shields.io/badge/Python-4584b6?style=for-the-badge)
+![](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python)
 
  
