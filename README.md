@@ -1,9 +1,7 @@
 <p align="center">:shushing_face:🦊</p>
 
 <div align="center">
-  <p>Math passionate</p>
-  <p>Art and aesthetics also have significance for me, even a bit</p>
-  <p>yapping</p>
+  <p>blud messing with assembler</p>
 </div>
 
 
